@@ -120,3 +120,4 @@ footer a{color:var(--muted)}
 .legal th{background:#e2d3b3}
 .legal .toc{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:15px;margin:18px 0 0}
 .legal hr{border:0;border-top:2px dashed rgba(42,32,23,.2);margin:70px 0 50px}
+nav .links a.cta-small{font-family:"Special Elite",monospace;letter-spacing:.08em;color:var(--paper);border:1px solid rgba(239,228,204,.35);border-radius:6px;padding:2px 8px}
